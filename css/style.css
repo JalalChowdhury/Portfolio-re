@@ -1,0 +1,104 @@
+body{
+
+    font-family: 'Open Sans', sans-serif;
+    
+    
+}
+
+.banner-container{
+    background-color: rgb(179, 177, 177);
+
+    /*background: url(/img/bg-uk.jpg);
+    background-size: 1400px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;*/
+}
+
+.banner-column{
+    background-color: grey;
+}
+.navbar-container{
+    top: 0;
+    background-color: black;
+    position: sticky;
+    z-index: 2;
+}
+
+
+.about-container{
+
+    background-color: rgb(62, 189, 240);
+}
+
+.education-container{
+
+
+    background-color: rgb(240, 223, 155);
+}
+
+.redtypecolor{
+    color: rgb(173, 31, 31);
+}
+
+.circle{
+    background-color: rgb(231, 50, 50);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+
+
+}
+
+.project-container{
+
+    background-color: turquoise;
+}
+
+.project-typecolor{
+    color: white
+
+}
+
+.portfolio-typecolor{
+
+    color: rgb(43, 10, 190);
+}
+
+
+.gallery-container{
+
+
+    background-color: burlywood;
+}
+
+.g-circle{
+    background-color: rgba(87, 210, 248, 0.507);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+
+
+}
+
+.form-container{
+
+    background-color: rgb(95, 93, 93);
+}
+
+.inner-form{
+
+    background-color: rgba(129, 125, 125, 0.445);
+}
+
+.bg-success{
+    background-color: green;
+}
+
+.bg-success:hover{
+    color: white!important;
+}
+
+
+.footer{
+    background-color: turquoise;
+ 
